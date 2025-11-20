@@ -12,7 +12,7 @@
 <div align="left">
   <a href="https://twitter.com/rajarshi_2005" target="_blank">
     <img 
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxWO9f4teYUmSjTWMBIFvRf0acRlFAZNkb-w&s"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Twitter Follow Badge"
       width="40" height="40"
     />
