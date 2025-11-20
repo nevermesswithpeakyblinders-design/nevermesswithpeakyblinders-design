@@ -1,6 +1,8 @@
 # Hi 👋, I'm Rajarshi Chakraborty
 
 ### I am a TypeScript Developer.
+
+<h4>Rajarshi Chakraborty - Computer Science undergrad (2027) specializing in software engineering, system design, and high-performance full-stack development. I focus on building scalable, secure, and reliable applications with clean architecture and optimized code. Passionate about engineering excellence, product thinking, and delivering solutions that drive real business impact. Actively seeking opportunities to contribute to large-scale, mission-critical projects.</h4>
 <div align="left">
   <img 
     src="https://komarev.com/ghpvc/?username=chakrabortyrajarshi2005&label=Profile+views&color=0e75b6&style=flat" 
@@ -18,12 +20,9 @@
   </a>
 </div>
 
-
-- 📫 How to reach me **1. rajarshi29032005@gmail.com 2.  rajarshichakraborty2005@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://codolio.com/profile/Rajarshi@2005](https://codolio.com/profile/Rajarshi@2005)**
-
-- 📝 I regularly write articles on **[https://medium.com/@rajarshi_2005](https://medium.com/@rajarshi_2005)**
+- 📫 **How to reach me** : **1. rajarshi29032005@gmail.com 2.  rajarshichakraborty2005@gmail.com**
+- 👨‍💻 **All of my projects are available at** : **[https://codolio.com/profile/Rajarshi@2005](https://codolio.com/profile/Rajarshi@2005)**
+- 📝 **I regularly write articles on** : **[https://medium.com/@rajarshi_2005](https://medium.com/@rajarshi_2005)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
