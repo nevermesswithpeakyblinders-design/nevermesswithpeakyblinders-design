@@ -21,8 +21,8 @@
 
 - 📫 **How to reach me** : **1. rajarshi29032005@gmail.com 2.  rajarshichakraborty2005@gmail.com**
 - 📞 **Contact Number + Whatsapp** : **+91 8001950250**
-- 👨‍💻 **All of my projects are available at** : **[;0https://codolio.com/profile/Rajarshi@2005](https://codolio.com/profile/Rajarshi@2005)**
-- 📝 **I regularly write articles on** : **https://medium.com/@rajarshi_2005](https://medium.com/@rajarshi_2005**
+- 👨‍💻 **All of my projects are available at** : **[https://codolio.com/profile/Rajarshi@2005](https://codolio.com/profile/Rajarshi@2005)**
+- 📝 **I regularly write articles on** : **[https://medium.com/@rajarshi_2005](https://medium.com/@rajarshi_2005)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
