@@ -44,5 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakrabortyrajarshi2005&show_icons=true&locale=en&layout=compact" alt="chakrabortyrajarshi2005" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakrabortyrajarshi2005&show_icons=true&locale=en" alt="chakrabortyrajarshi2005" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakrabortyrajarshi2005&" alt="chakrabortyrajarshi2005" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chakrabortyrajarshi2005&border_radius=4.9" alt="GitHub Streak" /></a>
+
 
